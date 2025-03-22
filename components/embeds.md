@@ -23,6 +23,12 @@ The best video ever made (remote file example)
 Unsupported file type
 {% endembed %}
 
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FqC5zXdbgnrCYTNwQ8VD3%2Fuploads%2F88SpQG5aC9VWPNRO2JKI%2Ffunky.mp4?alt=media&token=f53ca112-93cc-4b1b-b9a0-07fd26ce5913" %}
+This file was uploaded to Gitbook.
+{% endembed %}
+
+
+
 {% embed url="https://youtu.be/uPu9OaJmYVc" %}
 YouTube
 {% endembed %}
