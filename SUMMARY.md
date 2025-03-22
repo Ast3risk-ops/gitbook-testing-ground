@@ -20,6 +20,7 @@
 * [Tabs](tabs.md)
 * [Expandable](expandable.md)
 * [Drawing](drawing.md)
+* [Git Files](git-files.md)
 
 ## 😀 Test Group
 
