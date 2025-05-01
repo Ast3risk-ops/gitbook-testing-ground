@@ -1,5 +1,5 @@
 ---
-icon: globe
+icon: square
 layout:
   title:
     visible: true
