@@ -1,12 +1,14 @@
 # Table of contents
 
 * [Home](README.md)
+* [All Together](all-together.md)
 
 ## Components
 
 * [Markdown](components/markdown.md)
 * [Links](components/links.md)
 * [Images](components/images.md)
+* [Buttons](components/buttons.md)
 * [Files](components/files.md)
 * [Cards](components/cards.md)
 * [Embeds](components/embeds.md)

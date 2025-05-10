@@ -37,7 +37,7 @@ YouTube
 PeerTube
 {% endembed %}
 
-{% embed url="https://social.linux.pizza/@asterisk/111812810669205332" %}
+{% embed url="https://social.linux.pizza/@asterisk/111812810669205332" fullWidth="true" %}
 Mastodon
 {% endembed %}
 
