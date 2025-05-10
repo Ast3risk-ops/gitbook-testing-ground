@@ -17,6 +17,8 @@ layout:
 
 This is a test space designed to showcase how multiple gitbook elements appear in Markdown Sync more easily, and a place for me to mess with customization.
 
+[all-together.md](all-together.md "mention")
+
 ### Links
 
 * [markdown.md](components/markdown.md "mention")
